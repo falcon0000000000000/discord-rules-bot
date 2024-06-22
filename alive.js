@@ -18,7 +18,7 @@ function startServer() {
         margin: 0;
         padding: 0;
         font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-        background: url(https://media.discordapp.net/attachments/1182085199346008155/1189566491302055997/Server_Banner.png?ex=659ea120&is=658c2c20&hm=9d475c26895cf9f6ca0a27aaf96237d39a6ae66efc4dc87232348274825d27d9&=&format=webp&quality=lossless&width=840&height=473)
+        background: url(https://media.discordapp.net/attachments/1241198564319822015/1253810918949912676/sn1.png?ex=6677dea9&is=66768d29&hm=398886ebd525b436da057b860778f66e2579ae2a753d55d1d85e8578821d9521&=&format=webp&quality=lossless&width=350&height=350)
           no-repeat;
         object-fit: cover;
         background-position: center;

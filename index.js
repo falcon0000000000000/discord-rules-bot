@@ -32,7 +32,7 @@ client.on('messageCreate', async message => {
         .setThumbnail('')
         .setTitle('قوانين السيرفر')
         .setDescription('**الرجاء اختيار احد القوانين لقرائته من قائمة الاختيارات تحت**')
-        .setImage('')
+        .setImage('https://media.discordapp.net/attachments/1241198564319822015/1253810918949912676/sn1.png?ex=6677dea9&is=66768d29&hm=398886ebd525b436da057b860778f66e2579ae2a753d55d1d85e8578821d9521&=&format=webp&quality=lossless&width=350&height=350')
         .setFooter({ text: 'Rules Bot' })
         .setTimestamp();
 
